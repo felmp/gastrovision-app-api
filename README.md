@@ -1,2 +1,2 @@
-# Gastrovision APP
+# Gastrovision
 
